@@ -63,3 +63,4 @@ Open index.html in a browser to see the output.
 👥 Team & Contributors 
 • Pulkit Bajaj 
 • Tanvi Thakur
+changes made in readme
